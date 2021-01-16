@@ -4,6 +4,9 @@ Get the data csv from kaggel.com amazon_top_50_bestselling_books
 
 Add it to the data folder
 
+
+
+
 Install Dep:
 Make a venv: python -m venv venv
 
@@ -14,6 +17,9 @@ Install Req: pip install matplotlib jupyterlab ipykernel pip install -r requirem
 Before Running jupyterlab: point the ipykernel to the venv
 
 python -m ipykernel install --user --name=data_vis
+
+
+
 
 Import
 import csv to the jupyterlab notebook to access the csv data
