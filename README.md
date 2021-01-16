@@ -7,7 +7,7 @@ Add it to the data folder
 
 
 
-Install Dep:
+# Install Dep:
 Make a venv: python -m venv venv
 
 Activate it: .\venv\Scripts\Activate.ps1
@@ -21,7 +21,7 @@ python -m ipykernel install --user --name=data_vis
 
 
 
-Import
+#Import
 import csv to the jupyterlab notebook to access the csv data
 import matplotlib.pyplot as plt to the jupyterlab notebook
 import other extensions you wish to use
