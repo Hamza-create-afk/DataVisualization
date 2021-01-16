@@ -21,7 +21,7 @@ python -m ipykernel install --user --name=data_vis
 
 
 
-#Import
+# Import
 import csv to the jupyterlab notebook to access the csv data
 import matplotlib.pyplot as plt to the jupyterlab notebook
 import other extensions you wish to use
