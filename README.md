@@ -1,5 +1,5 @@
 # DataVisualization fhfhf
-Getting Started:
+# Get the data:
 Get the data csv from kaggel.com amazon_top_50_bestselling_books
 
 Add it to the data folder
